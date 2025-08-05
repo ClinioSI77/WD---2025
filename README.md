@@ -1,7 +1,7 @@
 # 📶 RSSI in Wireless Networks: A Temporal and Statistical Analysis
 
 This repository supports the reproducibility of the data used in the paper **"RSSI in Wireless Networks: A Temporal and Statistical Analysis"**, presented at the **Wireless Day Conference, 2025**.  
-The dataset refers to the access point with MAC address `00:14:a4:81:4d:95`, collected over a 24-hour period using the **ICARUS28** tool.
+The dataset refers to the access point with address `00:14:a4:81:4d:95`, collected over a 24-hour period using the **ICARUS28** tool.
 
 ## 📁 Data Structure
 
